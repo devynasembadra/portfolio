@@ -1,6 +1,9 @@
 **Author:** Ann Handley
+
 **Date:** May 2026 
+
 **Platform:** LinkedIn 
+
 **Link:** [https://www.linkedin.com/posts/annhandley_hey-so-a-few-weeks-ago-i-posted-an-sos-here-share-7467944020468703232-Z3CS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPVS1kB5fZFE9195N7qW6YLuLYWM1TkjIc](https://www.linkedin.com/posts/annhandley_hey-so-a-few-weeks-ago-i-posted-an-sos-here-share-7467944020468703232-Z3CS/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGPVS1kB5fZFE9195N7qW6YLuLYWM1TkjIc)
 
 ## Original Post
