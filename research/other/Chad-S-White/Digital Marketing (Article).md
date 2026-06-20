@@ -1,0 +1,23 @@
+**Author:** Chad S. White 
+
+**Date:** May 7, 2026
+
+**Platform:** Digital Marketing (Article)
+
+**Link:** [https://www.cmswire.com/digital-marketing/email-marketing-underperforming-lets-troubleshoot-it/)
+
+---
+
+## Original Post
+Email performance slipping? The issue may not be your campaigns — it’s likely channel overlap, weak orchestration and hidden operational gaps.
+The Gist
+
+Email isn’t failing — attribution is. Performance drops often stem from SMS, push and paid media cannibalizing conversions and muddying credit, not true email decline.
+Omnichannel without orchestration backfires. Without coordinated messaging and shared metrics, brands create redundancy, fatigue and zero-sum channel competition instead of incremental value.
+Most issues are operational, not creative. Over-frequency, poor deliverability, weak automation and flawed design quietly erode results more than campaign quality.
+Automation is the biggest missed lever. Top programs drive ~25%+ of revenue from triggered emails, yet many teams overinvest in batch sends instead of optimizing lifecycle flows.
+Email health still matters. Low engagement signals deliverability risk, creating a downward spiral that suppresses visibility and performance.
+The real fix is unified measurement. Shifting from channel metrics to customer lifetime value exposes true growth and prevents internal competition across teams.
+While no one has claimed email marketing is dying for many, many years, some marketers have become increasingly concerned with performance declines, despite the channel generating returns on investment that are often at least twice as high as most other channels.
+
+If your organization is concerned about your email marketing performance, here are some of the root causes I've been seeing that go beyond the usual economic or competitive pressures.
